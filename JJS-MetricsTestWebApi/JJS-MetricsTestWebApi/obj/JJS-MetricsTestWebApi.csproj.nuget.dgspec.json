@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\git\\jschroeder\\c#\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj": {}
+    "C:\\repos\\ready-at-hand\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj": {}
   },
   "projects": {
-    "C:\\repos\\git\\jschroeder\\c#\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj": {
+    "C:\\repos\\ready-at-hand\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\git\\jschroeder\\c#\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj",
+        "projectUniqueName": "C:\\repos\\ready-at-hand\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj",
         "projectName": "JJS-MetricsTestWebApi",
-        "projectPath": "C:\\repos\\git\\jschroeder\\c#\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj",
+        "projectPath": "C:\\repos\\ready-at-hand\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj",
         "packagesPath": "C:\\Users\\jschroe\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\git\\jschroeder\\c#\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\obj\\",
+        "outputPath": "C:\\repos\\ready-at-hand\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jschroe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9H60EPHsuS3/76LL10JKm3FcHuF6LnyLXABt93Cdr0U4hNSq1Qi8e92pozYKtNNDcmxggoKW6aRLSk8UURwGfA==",
+  "dgSpecHash": "ofEv/nJwaBwBULYODwZNXCCyzBhdd0g2Up2YcQ3SYO5BAFKryePtOgQv4M2N5mseS9P2KettRNI3T8NW7K2efA==",
   "success": true,
-  "projectFilePath": "C:\\repos\\git\\jschroeder\\c#\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj",
+  "projectFilePath": "C:\\repos\\ready-at-hand\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi\\JJS-MetricsTestWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jschroe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\jschroe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
