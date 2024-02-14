@@ -1,0 +1,11 @@
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\JJS-MetricsTestWebApi.exe
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\JJS-MetricsTestWebApi.dll
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\JJS-MetricsTestWebApi.deps.json
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\JJS-MetricsTestWebApi.runtimeconfig.json
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\JJS-MetricsTestWebApi.pdb
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
