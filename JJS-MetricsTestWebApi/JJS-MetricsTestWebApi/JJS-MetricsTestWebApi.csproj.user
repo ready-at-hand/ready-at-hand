@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\repos\git\jschroeder\c#\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\JJS-MetricsTestWebApi\Properties\PublishProfiles\jjs-metricstestwebapi - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\repos\ready-at-hand\.github\workflows\dev_jjs-metricstestwebapi.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

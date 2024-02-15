@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JJS-MetricsTestWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+844c5f111f5478bd2ed2983e72b8f2ef491fe2c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a0c1b79dfb22470678517d58f2b6537101ad9b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("JJS-MetricsTestWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JJS-MetricsTestWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
